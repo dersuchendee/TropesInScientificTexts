@@ -1,5 +1,8 @@
 # Discovery and Modeling of Knowledge Patterns from Tropes in Scientific Texts 
 
+![Figure 1: Pattern image](pattern-image.png)
+
+
 ## Description
 This project aims to bridge the gap in natural language processing by exploiting state-of-the-art knowledge extraction and representation techniques to discover and model knowledge patterns (KPs) in scientific texts. The focus is on the hybridization of natural language processing and semantic technologies to foster the formalization and extraction of KPs from text used in a non-literal sense and in an abstractive form.
 
