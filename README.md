@@ -1,6 +1,5 @@
 # Discovery and Modeling of Knowledge Patterns from Tropes in Scientific Texts 
 
-![Figure 1: Pattern image](pattern-image.png)
 
 
 ## Description
@@ -11,3 +10,5 @@ Scientific literature often leverages tropes like metaphors and analogies to con
 
 ### Importance
 Understanding the evolution of scientific knowledge is not just an academic exercise—it influences research directions, funding decisions, and policy-making. By examining the patterns and framing of tropes in scientific literature, this project seeks to illuminate how scientific language evolves and contributes to interdisciplinary research and public understanding.
+
+![Figure 1: Pattern image](pattern-image.png)
